@@ -1,2 +1,2 @@
 # RicksNewRepository
-second try repository
+second try repository I wish I had an emoji
